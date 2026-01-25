@@ -1,4 +1,4 @@
-## Hi, I'm Aditya 🤖
+## Hi, I'm Aditya 🤠
 
 Mechatronics Engineering '28 @ UWaterloo. Previously, developed ML infrastructure at [Toyota Research Institute](https://www.tri.global), worked on computer vision research at [VIP Lab](https://vip.uwaterloo.ca), and built data platforms at [TMMC](https://tmmc.ca/en/).
 
