@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi, I'm Aditya 👋
 
+Mechatronics Engineering '28 @ UWaterloo. Previously, worked on ML infrastructure at [Toyota Research Institute](https://www.tri.global), worked on computer vision research at [VIP Lab](https://vip.uwaterloo.ca), and built data platforms at [TMMC](https://tmmc.ca/en/).
+
+### Find me on socials
+- Portfolio [adityaajay.dev](https://adityaajay.dev)
+- Twitter [@_AdityaAjay](https://twitter.com/_AdityaAjay)
+- Linkedin [Aditya Ajay](https://www.linkedin.com/in/adityaajay33)
 <!--
 **adityaajay33/adityaajay33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
